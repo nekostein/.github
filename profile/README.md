@@ -33,4 +33,4 @@ You must satisfy brightness sensors with peaks and darkness sensors with valleys
 
 A small donation of $5.00 will be enough to feed us with 0.25 day of food and housing.
 We appreciate all generous donators. We offer benefits in return to your generosity.
-Visit our Donation Portal page [3] to see details.
+Visit our Donation Portal page [https://nekostein.com/misc/donate](https://nekostein.com/misc/donate) to see details.
