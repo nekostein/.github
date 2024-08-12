@@ -8,16 +8,9 @@ Nekostein is an unincorporated game development team consiting of Neruthes and M
 For more information, see our website [https://nekostein.com/](https://nekostein.com/).
 
 
-
-## Wave Function
-
-We are developing our first game **Wave Function** ([https://nekoste.in/+wf](https://nekoste.in/+wf)) which is expected to be released in November 2023
-on Steam for Windows (and probably Linux and Mac as well).
-
-Wave Function is a puzzle game about quantum physics.
-You will do the double-slit experiment and adjust parameters; the interference stripes you produce will determine your score.
-You must satisfy brightness sensors with peaks and darkness sensors with valleys.
-
+## Projects
+- [KumaWelt 1: Honey Frontier](https://nekostein.com/games/kw1/)
+- [Pendulum Survivor](https://nekostein.com/games/pensur/)
 
 
 ## Community
